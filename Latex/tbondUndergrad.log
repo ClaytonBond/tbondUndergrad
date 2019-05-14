@@ -1,0 +1,560 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.10.14)  14 MAY 2019 10:27
+entering extended mode
+**./tbondUndergrad.tex
+(tbondUndergrad.tex
+LaTeX2e <2018-04-01> patch level 5
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/dt
+k/dtk-logos.sty"
+Package: dtk-logos 2017/06/07 v. 1.01 Dante Edition: Logos (hv)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/hologo.sty"
+Package: hologo 2017/05/01 v1.13 A logo collection with bookmark support (HO)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+ifxetex/ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+oberdiek/ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+))
+Package hologo Info: Using driver `pdftex'.
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/da
+ntelogo/dantelogo.sty"
+Package: dantelogo 2015/08/12 v0.03
+
+`dantelogo' v0.03, 2015/08/12 macro for DANTE's logo (hv)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/if
+tex/iftex.sty"
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+) We run (pdf)latex ... 
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))))
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+babel/babel.sty"
+Package: babel 2018/10/03 3.25 The Babel package
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+babel/switch.def"
+File: switch.def 2018/10/03 3.25 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ar
+abi/bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+bel-english/english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+babel/babel.def"
+File: babel.def 2018/10/03 3.25 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/generic/
+babel/txtbabel.def")
+\bbl@dirlevel=\count89
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@american = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/al
+gorithms/algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fl
+oat/float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count90
+\float@exts=\toks17
+\float@box=\box26
+\@float@everytoks=\toks18
+\@floatcapt=\box27
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks19
+\c@algorithm=\count91
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/al
+gorithmicx/algpseudocode.sty"
+Package: algpseudocode 
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/al
+gorithmicx/algorithmicx.sty"
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count92
+\c@ALG@rem=\count93
+\c@ALG@nested=\count94
+\ALG@tlm=\skip43
+\ALG@thistlm=\skip44
+\c@ALG@Lnr=\count95
+\c@ALG@blocknr=\count96
+\c@ALG@storecount=\count97
+\c@ALG@tmpcounter=\count98
+\ALG@tmplength=\skip45
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen104
+))
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+smath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip10
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks21
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks22
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks23
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+scls/amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks30
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ge
+ometry/geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count111
+\Gm@cntv=\count112
+\c@Gm@tempcnt=\count113
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks31
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ge
+ometry/geometry.cfg"))
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gr
+aphics-def/pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ta
+bto/tabto.sty"
+Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
+\CurrentLineWidth=\dimen123
+)
+No file tbondUndergrad.aux.
+\openout1 = `tbondUndergrad.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 433.62001pt, 90.3375pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=614.295pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-18.9325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/context/
+base/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen124
+\scratchbox=\box30
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen125
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks33
+)
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ob
+erdiek/grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/am
+sfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (20.89238pt too wide) in paragraph at lines 36--41
+\T1/cmr/m/n/10 consistency, however identifying which shard maps will deliver t
+he highest average effectiveness
+ []
+
+
+Overfull \hbox (2.9308pt too wide) in paragraph at lines 51--52
+\T1/cmr/m/n/10 search to be effective in smaller scale, single query-at-atime e
+nvironments. However, modern practical,
+ []
+
+[1
+
+{/Users/clayton/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pd
+ftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 59.
+
+("/Users/clayton/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ba
+se/omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--140
+
+ []
+
+<Stochastic.png, id=22, 904.37875pt x 139.52126pt>
+File: Stochastic.png Graphic file (type png)
+<use Stochastic.png>
+Package pdftex.def Info: Stochastic.png  used on input line 141.
+(pdftex.def)             Requested size: 361.7451pt x 55.8075pt.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+
+ []
+
+<Kmeans.png, id=27, 904.37875pt x 139.52126pt>
+File: Kmeans.png Graphic file (type png)
+<use Kmeans.png>
+Package pdftex.def Info: Kmeans.png  used on input line 150.
+(pdftex.def)             Requested size: 361.7451pt x 55.8075pt.
+[4 <./Stochastic.png> <./Kmeans.png>]
+Underfull \hbox (badness 1259) in paragraph at lines 174--175
+\T1/cmr/m/n/10 Anthology, \T1/cmr/m/it/10 Association for Computer Linguistics\
+T1/cmr/m/n/10 , 25 Nov. 2018, aclanthology.coli.uni-
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 183--184
+[]\T1/cmr/m/n/10 Y. Kim, J. Callan, J. S. Culpepper, and A. Moffat, Efficient 
+distributed selective
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 183--184
+\T1/cmr/m/n/10 search,Inf.Retr., vol. 20, no. 3, pp. 221252, Jun. 2017. [Onli
+ne]. Available:
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 189--190
+[]\T1/cmr/m/n/10 A. Kulkarni and J. Callan, Selective search: Efficient and ef
+fective search of large
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 192--193
+\T1/cmr/m/n/10 partitionswithout supervision, inProceedings of the 2018 ACM SI
+GIR International
+ []
+
+[5] (tbondUndergrad.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4572 strings out of 494889
+ 67134 string characters out of 3176836
+ 151568 words of memory out of 3000000
+ 8082 multiletter control sequences out of 15000+200000
+ 20384 words of font info for 54 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 37i,6n,32p,775b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/clayton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfo
+ur/jknappen/ec/dpi600/ecbx1000.pk> </Users/clayton/Library/Application Support/
+MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk> </Users/clay
+ton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/
+dpi600/ecti1000.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs/d
+ata/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </Users/clayton/Library/App
+lication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440
+.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
+four/jknappen/ec/dpi600/ecrm0900.pk> </Users/clayton/Library/Application Suppor
+t/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk> </Users/cl
+ayton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/e
+c/dpi600/ecrm1200.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs
+/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk></Users/clayton/Library/Ap
+plication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb></Users/clayton/Library/Application Support/MiKTeX/texmfs/install/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb></Users/clayton/Library/Application Support/MiKT
+eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/clayton/Libr
+ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></Users/clayton/Library/Application Support/MiKTeX/texmfs/install/font
+s/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on tbondUndergrad.pdf (5 pages, 309116 bytes).
+PDF statistics:
+ 341 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
