@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.10.14)  14 MAY 2019 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.10.14)  15 MAY 2019 00:07
 entering extended mode
 **./tbondUndergrad.tex
 (tbondUndergrad.tex
@@ -334,8 +334,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 bto/tabto.sty"
 Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
 \CurrentLineWidth=\dimen123
-)
-No file tbondUndergrad.aux.
+) (tbondUndergrad.aux)
 \openout1 = `tbondUndergrad.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -350,6 +349,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -489,70 +489,76 @@ File: Kmeans.png Graphic file (type png)
 <use Kmeans.png>
 Package pdftex.def Info: Kmeans.png  used on input line 150.
 (pdftex.def)             Requested size: 361.7451pt x 55.8075pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--169
+
+ []
+
 [4 <./Stochastic.png> <./Kmeans.png>]
-Underfull \hbox (badness 1259) in paragraph at lines 174--175
+Underfull \hbox (badness 1259) in paragraph at lines 178--179
 \T1/cmr/m/n/10 Anthology, \T1/cmr/m/it/10 Association for Computer Linguistics\
 T1/cmr/m/n/10 , 25 Nov. 2018, aclanthology.coli.uni-
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 183--184
+Underfull \hbox (badness 1314) in paragraph at lines 187--188
 []\T1/cmr/m/n/10 Y. Kim, J. Callan, J. S. Culpepper, and A. Moffat, Efficient 
 distributed selective
  []
 
 
-Underfull \hbox (badness 8038) in paragraph at lines 183--184
+Underfull \hbox (badness 8038) in paragraph at lines 187--188
 \T1/cmr/m/n/10 search,Inf.Retr., vol. 20, no. 3, pp. 221252, Jun. 2017. [Onli
 ne]. Available:
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 189--190
+Underfull \hbox (badness 1092) in paragraph at lines 193--194
 []\T1/cmr/m/n/10 A. Kulkarni and J. Callan, Selective search: Efficient and ef
 fective search of large
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 192--193
+Underfull \hbox (badness 2426) in paragraph at lines 196--197
 \T1/cmr/m/n/10 partitionswithout supervision, inProceedings of the 2018 ACM SI
 GIR International
  []
 
-[5] (tbondUndergrad.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[5] (tbondUndergrad.aux) ) 
 Here is how much of TeX's memory you used:
- 4572 strings out of 494889
- 67134 string characters out of 3176836
- 151568 words of memory out of 3000000
+ 4574 strings out of 494889
+ 67313 string characters out of 3176836
+ 151596 words of memory out of 3000000
  8082 multiletter control sequences out of 15000+200000
  20384 words of font info for 54 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 37i,6n,32p,775b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
- </Users/clayton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfo
-ur/jknappen/ec/dpi600/ecbx1000.pk> </Users/clayton/Library/Application Support/
-MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1000.pk> </Users/clay
-ton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/
-dpi600/ecti1000.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs/d
-ata/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </Users/clayton/Library/App
-lication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440
-.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
-four/jknappen/ec/dpi600/ecrm0900.pk> </Users/clayton/Library/Application Suppor
-t/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk> </Users/cl
-ayton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/e
-c/dpi600/ecrm1200.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs
-/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk></Users/clayton/Library/Ap
-plication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.p
-fb></Users/clayton/Library/Application Support/MiKTeX/texmfs/install/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb></Users/clayton/Library/Application Support/MiKT
-eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/clayton/Libr
-ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></Users/clayton/Library/Application Support/MiKTeX/texmfs/install/font
-s/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on tbondUndergrad.pdf (5 pages, 309116 bytes).
+ 37i,6n,32p,789b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/clayton/Library/Application Support/MiKTeX/t
+exmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </Users/clayton/Libr
+ary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/e
+ccc1000.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs/data/font
+s/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </Users/clayton/Library/Application
+ Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </U
+sers/clayton/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jkn
+appen/ec/dpi600/ecbx1440.pk> </Users/clayton/Library/Application Support/MiKTeX
+/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> </Users/clayton/Li
+brary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600
+/ecbx0900.pk> </Users/clayton/Library/Application Support/MiKTeX/texmfs/data/fo
+nts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </Users/clayton/Library/Applicati
+on Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk></
+Users/clayton/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></Users/clayton/Library/Application Support/MiKTeX/t
+exmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/clayton/Library/
+Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></Users/clayton/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></Users/clayton/Library/Application Support/Mi
+KTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on tbondUndergrad.pdf (5 pages, 310339 bytes).
 PDF statistics:
  341 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

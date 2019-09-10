@@ -162,12 +162,16 @@ Xmos 0/3 \\
 \end{center}
 
 On the other hand, our homemade search system was able to achieve a modest $100\%$ success rate. However, this was a stacked test in it's favor. The terms listed above are the titles to their respective articles. which is at the core of it's design structure. When you implement something without a title into the test like "University of Russia". Then our tuned implementation is only able to find other Universities without anything relating to Russia. Our K-Means implementation on the other hand, was able to identify "Moscow State University" as it's more relationally based. This is a big win in favor of K-Means, as most searches are made with fragments of what we know. 
+\\\\
+An issue with the testing methodology we've taken in this paper is a lack of replicability. We weren't able to stabilize the seed which lead to random results. Even with a random seed you have the possibility to  leave the system running while you calculate the remaining queries. But this is a feature we weren't able to get running correctly. In the future there are a couple of additional steps we need to take to further test our results. First and most importantly we need to stabilize are search results. Second would be to perform a second web crawl on a similar data set and compare the success rate to what we already have. Third would be to bloat the data we already have, in theory this should increase the entropy in our data and increase our accuracy. 
+\\\\
+One final issue with this project was lack of scalability. When we create the clusters with K-Means, we're working with the entire corpus. That is we're scanning the entire file system and holding everything in a 2D array in memory. This could obviously have huge performance impacts. A better method would be creating a list holding a string of the filepaths. Only during the clustering process do you pull the file and preprocess it. This will leave you with a much smaller overhead with just two lists, one containing the list of filepaths and the other contain which group each filepath is associated with. 
 
 \section{Conclusions}
 
 For the simplicity of the data set the custom tuned application was the better option. But for bigger more stochastic sets I believe K-Means will come out on top. It's ability to search topical and relationally are much more powerful than returning a stagnate title. I believe a marrying of the two should be possible in a way that would substantially improve the performance of both algorithms in a huge data set. If K-Means was run first to cluster the data into meaningful shards then a seconds pass could be run over those shards using a title sweep to further narrow down the cluster, If this implementation took place an additional parameter would need to be added to the title search to increase the breadth of it's search to synonyms as well. 
 
-\newpage
+
 
 \begin{thebibliography}{999}
 \bibitem{Wachsmuth}
